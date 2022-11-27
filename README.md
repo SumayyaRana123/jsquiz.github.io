@@ -1,1 +1,1 @@
-# jsquiz.github.io
+# jsquiz
